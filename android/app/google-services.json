@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "819795713192",
+    "project_id": "myopd-acd08",
+    "storage_bucket": "myopd-acd08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819795713192:android:54b439c82824d85587369d",
+        "android_client_info": {
+          "package_name": "com.example.realemrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819795713192-on0n342he1eph6p9456o7jloddnbg4mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realemrs",
+            "certificate_hash": "78af3d7fd31d6d49bdb6b92f913dffeeb7ccb0f4"
+          }
+        },
+        {
+          "client_id": "819795713192-hqhvk8kpe5mu32hchqp8jfgdmdmgn9ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6psawOT1Q03WTBrhlcNKd5svvJ7EDiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819795713192-hqhvk8kpe5mu32hchqp8jfgdmdmgn9ai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819795713192-55j0cchp6m914o0h2t45bcuftnmvleh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realemrs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
